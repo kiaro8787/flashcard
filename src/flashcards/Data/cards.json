@@ -1,0 +1,61 @@
+{
+    "cards" : {
+      "NorthAmerica" : [ {
+        "behindimage" : "america-behind.png",
+        "capital" : "ワシントン Ｄ.Ｃ.",
+        "country" : "アメリカ合衆国",
+        "frontimage" : "america-front.png"
+      }, {
+        "behindimage" : "canada-behind.png",
+        "capital" : "オタワ",
+        "country" : "カナダ",
+        "frontimage" : "canada-front.png"
+      }, {
+        "behindimage" : "cuba-behind.png",
+        "capital" : "ハバナ",
+        "country" : "キューバ",
+        "frontimage" : "cuba-front.png"
+      }, {
+        "behindimage" : "jamaica-behind.png",
+        "capital" : "キングストン",
+        "country" : "ジャマイカ",
+        "frontimage" : "jamaica-front.png"
+      }, {
+        "behindimage" : "mexico-behind.png",
+        "capital" : "メキシコシティ",
+        "country" : "メキシコ",
+        "frontimage" : "mexico-front.png"
+      }, {
+        "behindimage" : "bahamas-behind.png",
+        "capital" : "ナッソー",
+        "country" : "バハマ",
+        "frontimage" : "bahamas-front.png"
+      }, {
+        "behindimage" : "guatemala-behind.png",
+        "capital" : "グアテマラシティ",
+        "country" : "グアテマラ",
+        "frontimage" : "guatemala-front.png"
+      }, {
+        "behindimage" : "costarica-behind.png",
+        "capital" : "サンホセ",
+        "country" : "コスタリカ",
+        "frontimage" : "costarica-front.png"
+      }, {
+        "behindimage" : "panama-behind.png",
+        "capital" : "パナマ",
+        "country" : "パナマ",
+        "frontimage" : "panama-front.png"
+      } ],
+      "SouthAmerica" : [ {
+        "behindimage" : "america-behind.png",
+        "capital" : "ワシントン Ｄ.Ｃ.",
+        "country" : "アメリカ合衆国",
+        "frontimage" : "america-front.png"
+      }, {
+        "behindimage" : "canada-behind.png",
+        "capital" : "オタワ",
+        "country" : "カナダ",
+        "frontimage" : "canada-front.png"
+      } ]
+    }
+  }
